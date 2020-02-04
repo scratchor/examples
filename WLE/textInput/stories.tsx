@@ -25,7 +25,7 @@ export const input1 = () => {
   );
 };
 
-/*
+
 export const input2 = () => {
   return (
     <div>
@@ -71,4 +71,4 @@ export const input2 = () => {
     </div>
   );
 };
-*/
+
